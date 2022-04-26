@@ -1,0 +1,18 @@
+h2{ 			/* CSS For Score and Time*/
+	text-align: center;
+}
+.bckgrnd { 		/* CSS For Background*/
+	width: 100%;
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.strbtn{		/*CSS for start button*/
+	padding: 2.5% 0% 1.2% 0%;
+	width:10%;
+	margin:10% 45% 10% 45%;
+	background-image: url(../images/start.png);
+	background-size: cover;
+	border-radius: 10px;
+}

@@ -1,0 +1,28 @@
+
+
+div2{         /* STYLING FOR THE THE BIG BOX*/
+    
+    width: 40%;    
+    text-align: center;
+    padding-top: px;
+    margin: 7% 30% 0% 30%;
+    background-color: bisque;
+    border-radius: 5% 5% 5% 5% ;
+    
+}
+img{padding-bottom: 10px;} /* STYLING FOR THE IMAGE */
+
+h1{background-color: khaki;/* STYLING FOR THE HEADING*/
+    text-align: center;
+    margin: 18% 30% 10% ;
+    font-size: 250%;
+    padding: 10%
+    font-family=initial;
+
+}
+h6{  background-color: lawngreen;/* STYLING FOR THE PARAGRAPH*/
+    text-align:center
+    font-family= sans-serif;
+    font-size: 150%;
+    padding:  0%;
+}

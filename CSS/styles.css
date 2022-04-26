@@ -1,0 +1,36 @@
+body{ /* STYLING FOR THE PAGE*/
+    
+    background-image: url(../images/valley.png);
+    background-color: black;
+    background-repeat: no-repeat;   
+    background-size: cover;
+
+    border-width: 10px;
+    border-color: pink;
+    margin:0px;
+    height: 100%;
+}
+
+.banner { /* STYLING FOR THE THE BANNER*/
+    color:blanchedalmond;
+    background-color: black;
+    text-align: left;
+    padding: 2.5% 12.5% 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navigation{/* STYLING FOR THE NAVIGATION BAR */
+    color: burlywood;
+    text-align: center;
+    background-color: black;
+    padding: 2% 0% 1.25% ;
+}
+a{/* STYLING FOR THE THE TEXT IN NAVIGATION BAR*/
+    margin: 5% 2.70%;
+    color: yellowgreen;
+}
+.selected {/* STYLING FOR THE BOX*/
+    width: auto;
+    background-color: rgba(50,50,50,0.7);
+    padding: 16px;
+}
+

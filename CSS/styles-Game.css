@@ -1,0 +1,40 @@
+h2{ 			/* CSS For Score and Time*/
+	text-align: center;
+}
+.bckgrnd { 		/* CSS For Background*/
+	width: 100%;
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.box { 		/* CSS For the Grp of Squares*/
+	margin: 1.5% 0% 5% 0%;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: 780px;
+	height: 630px;
+	
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+.hole {		/* CSS For each hole for mole*/
+	background-color:green;
+	background-image: url(../images/hole.png);
+	background-size: cover;
+
+	width: 260px;
+	height: 210px;
+	
+	
+	border: solid lightgreen 0px;
+}
+
+.mole {			/* CSS For the one with Mole in init */
+	background-image: url("../images/mole.png");
+	background-size: cover;
+}

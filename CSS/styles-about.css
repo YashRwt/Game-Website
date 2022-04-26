@@ -1,0 +1,21 @@
+
+h2{ /* STYLING FOR THE HEADING*/
+    background-color: #784f2a;
+    text-align: left;
+    margin: 7.5% 20% 0% 20%;
+    padding: 5% 0px 1.5% 5%;
+    border-radius: 30% 30% 0% 0%;
+    font-size: 220%;
+} 
+
+p{/* STYLING FOR THE PARAGRAPH*/
+    background-color: #784f2a ;
+    text-align: left ;
+    margin: 0px 20% ;
+    padding: 0px 4.5% 3% ;
+   
+    font-size: 150% ;
+    border-radius: 0% 0% 10% 10% ;
+    color: wheat ;
+
+}

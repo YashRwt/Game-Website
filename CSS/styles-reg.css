@@ -1,0 +1,63 @@
+.background{ /*CSS for Background*/
+    
+    background-color: chocolat;
+
+    width: 100%;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.box{  /*CSS for box*/
+    background-image: url(../images/reg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 8% 0% 10% 0%;
+    background-color: white;
+    width: 18%;
+    display: table;
+	align-items: center;
+	justify-content: center;
+    border: solid lightgreen 12px ;
+    border-radius: 10%;
+    box-shadow: 0 0 20px black
+    ;
+
+}
+.hdin{      /*CSS for heading*/
+    margin: 17% 2% 4% 2%;
+    padding: 0% 2% 0% 2%;
+    font-size: 280%;
+    text-align: center;
+    border-radius: 5%;
+    /*color: #0B5CAB;*/
+    color: #03600b;
+    font-family: fantasy;
+
+}
+.IN-Para{       /*CSS for inn-para*/
+    text-align: center;
+    font-size: 120%;
+    padding: 0% 0% 0% 0%;
+    color: #0e530c;
+
+}
+.regbtn{        /*CSS for register button*/
+    font-weight: bolder;
+    margin-top: 5%;
+    width: 37%;
+    padding: 2% 0% 2% 0%;
+    background-color: lightgreen;
+    color: green;
+
+}
+.Result{        /*CSS for result*/
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.msg{           /*CSS for msg displayed*/
+    align-items: center;
+    text-align: center;
+}

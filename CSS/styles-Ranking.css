@@ -1,0 +1,39 @@
+.table{         /* STYLING FOR THE TABLE*/
+    float: left;
+    font-weight: bold;
+    width: 30%;
+    margin-top: 6%;
+    margin-left: 18%; 
+    padding: 1%;
+
+    background-image: url(../images/winner.jpg);
+    background-size: cover;
+
+    color: rgba((10), 10, 10, 0.5);
+     
+    text-align: center;
+    border-bottom: 1px solid #DDD;
+    font-size: 150%;
+    
+    border-radius: 5%;
+    
+}
+tr{             /*CSS for tr*/
+    border-bottom: 1px solid #ddd;
+    padding: 1%;
+}
+
+
+h1{             /* STYLING FOR THE BAR ON THE RIGHT */
+    float: right;
+    margin: 11% 20% 0% 0%;
+
+    background-image: url(../images/Medals.jpg);
+    background-size: cover;
+
+    padding: 0.6% 7.2% 8.3% 7.2%;
+    text-align: center;
+    border-radius: 3%;
+
+
+}

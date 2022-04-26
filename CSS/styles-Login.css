@@ -1,0 +1,87 @@
+.Shell{             /* STYLING FOR THE BIG BOX*/
+
+    background-color: aqua;
+    width: 40%;
+    height: 40%;
+    background-color: #dce9ee;
+    margin: 7% 30% 0% 30%;
+    border-radius: 5%;
+    text-align: center;
+    padding: 2%;
+
+}
+
+h1{                  /* STYLING FOR THE HEADING*/
+
+    text-align: right;
+    margin: 2% 5% 6% 0%;
+    font-family: Geneva;    
+    font-size: 300%;
+    
+}
+
+.emailInput{         /* STYLING FOR THE INPUT*/
+    
+
+    margin: 1% 62% 2% 0%;
+    width: 20%;
+    padding: 1%;
+    margin-bottom: 0.5%;
+    border-radius: 9%;
+    font-family: monospace;
+
+}
+
+.passwordInput{     /* STYLING FOR THE PASWORD INPUT*/
+
+    margin :1% 56% 4.5% 0%;
+    width: 26%;
+    padding: 1%;
+    border-radius: 9%; 
+    font-family: monospace;
+
+}
+
+.bottombar{         /* STYLING FOR THE LOGIN AND REGISTER BAR*/
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #dce9ee;
+    margin: 0% ;
+    padding: 1% 0% 0% 0%;
+    
+}
+
+.regbtn{            /* STYLING FOR THE REGSTER BAR*/
+    
+    background-color: steelblue;
+    padding: 2.5% 19% 2.5% 19%;
+    margin: 0% 1%;
+    
+}
+
+.logbtn{            /* STYLING FOR THE LOGIN BAR*/
+    
+    background-color: green;
+    padding: 2.5% 20% 2.5% 20%;
+    margin: 0% 0% 0% 1%;
+
+}
+
+.loginFailure{      /* STYLING FOR THE LOGIN BAR*/
+
+    color: red;
+
+}
+
+.fldnames{          /*CSS for *fldnames*/
+    margin-left:8.2%;
+    display:inherit;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: left;
+    align-content: left;
+}
